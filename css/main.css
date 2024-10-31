@@ -1,0 +1,36 @@
+/* Default layouts CSS */
+
+.purplesalad-item-wrap {
+	margin: 10px;
+}
+
+div.purplesalad-item-image {
+	padding: 5px;
+	float:left;
+	width:40%;
+}
+
+div.purplesalad-item-data {
+	float:left;
+	width:50%;
+	padding:5px;
+}
+
+.purplesalad-item-price {
+	text-align: right;
+	font-weight: bold;
+}
+
+.purplesalad-notice {
+	padding: 10px;
+	background-color: white;
+	font-weight: bold;
+}
+
+.purplesalad-success {
+	color: green;
+}
+
+.purplesalad-error {
+	color: red;
+}
